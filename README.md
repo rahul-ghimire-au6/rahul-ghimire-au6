@@ -1,3 +1,4 @@
+<div xmlns="http://www.w3.org/1999/xhtml">
 <style>
   .devImage{
      width:43.923vw, 
@@ -5,6 +6,7 @@
   }
 
 </style>
+</div>
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
@@ -51,12 +53,12 @@
 
 # 📊 GitHub Stats :
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-ghimire-au6&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" width="43.923vw" height="45.385vh"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-ghimire-au6&theme=monokai&hide_border=true" width="43.923vw" height="45.385vh"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ghimire-au6&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="43.923vw" height="45.385vh"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-ghimire-au6&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" class="devImage"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-ghimire-au6&theme=monokai&hide_border=true" class="devImage"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ghimire-au6&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" class="devImage"/>
 </div>
   
 ### ✍️ Today's Dev Quote
 <div id="header" align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="43.923vw" height="45.385vh"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" class="devImage"/>
 </div>
