@@ -1,14 +1,3 @@
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
-  .devImage{
-     width:43.923vw, 
-     height:45.385vh
-  }
-
-</style>
-</div>
-</foreignObject>
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
